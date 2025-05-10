@@ -18,6 +18,9 @@ This is a dynamic Excel dashboard project that visualizes sales, profit, and ord
 ![Dashboard Screenshot]
 https://github.com/Soumyadip-Dutta/superstore-sales-dashboard-excel/blob/main/screenshots/Sales%20Dashboard.png
 
+Check Online Dashboard:
+https://1drv.ms/x/c/4293e7fa0d8e1c4b/Eb8TfUAn-JRNsRkloRCB_a8B6LjvdrJqib4iuXqM80LRcA?e=PGj6qX
+
 ## 📁 Files Included
 - `Superstore_Sales_Dashboard.xlsx` – The interactive Excel file
 - Dashboard screenshots
