@@ -15,7 +15,8 @@ This is a dynamic Excel dashboard project that visualizes sales, profit, and ord
 - KPI Cards & Conditional Formatting
 
 ## 🖼️ Preview
-![Dashboard Screenshot](your-image-path.png)
+![Dashboard Screenshot]
+https://github.com/Soumyadip-Dutta/superstore-sales-dashboard-excel/blob/main/screenshots/Sales%20Dashboard.png
 
 ## 📁 Files Included
 - `Superstore_Sales_Dashboard.xlsx` – The interactive Excel file
